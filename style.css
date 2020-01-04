@@ -349,34 +349,36 @@ button:focus {
 #mu-hero {
 	display: inline;
 	float: left;
-	padding: 160px 0 90px;
+    padding: 160px 0 90px;
 	width: 100%;
 }
 
-.mu-hero-left{
+/* .mu-hero-left{
 	display: inline;
 	float: left;
 	width: 100%;
-}
+} */
 
 .mu-hero-right {
 	display: inline;
 	float: left;
 	width: 100%;
+	
 }
 
-.mu-hero-left h1 {
+ .mu-hero-left h3 {
 	color: #fff;
-	font-size: 50px;
+	/* font-size: 50px; */
+	font-style: oblique;
 	margin-bottom: 20px;
 }
 
-.mu-hero-left p {
-	color: #fff;
+ .mu-hero-left p {
+	color: #ff871c;
 	margin-bottom: 20px;
 }
 
-.mu-hero-left .mu-primary-btn {
+ .mu-hero-left .mu-primary-btn {
 	margin-top: 20px;
 	background-color: #fff;
 	font-weight: 600;
@@ -1037,6 +1039,9 @@ button:focus {
 	margin-top: 10px;
 	display: inline-block;
 }
+
+
+
 
 
 /*--------------------*/
