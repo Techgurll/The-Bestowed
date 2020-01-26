@@ -248,6 +248,16 @@ button:focus {
 /* HEADER */
 /*--------------------*/
 
+.lastthing{
+	background:#ff871c;
+	color:white;
+	margin-bottom: 2rem;
+	height:20rem;
+	padding-left:5rem;
+	padding-top:5rem;
+	border-radius:2rem;
+}
+
 #mu-header {
 	display: inline;
 	float: left;
